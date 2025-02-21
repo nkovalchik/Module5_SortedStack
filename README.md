@@ -22,8 +22,8 @@ This Java program reads a list of space-separated integers from the user, stores
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/nkovalchik/Module5_SortedStack.git
+cd Module5_SortedStack
 ```
 
 ### 2. Compile the Java Program
