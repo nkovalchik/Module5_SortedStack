@@ -26,17 +26,12 @@ git clone https://github.com/nkovalchik/Module5_SortedStack.git
 cd Module5_SortedStack
 ```
 
-### 2. Compile the Java Program
+### 2. Run the Java Program
 
 ```bash
-javac SortedStack.java
+java SortedStack.java
 ```
 
-### 3. Run the Program
-
-```bash
-java SortedStack
-```
 
 ## Usage
 
