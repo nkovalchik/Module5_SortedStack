@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java program reads a list of space-separated integers from the user, stores them in a `Stack`, sorts them in ascending order, and then prints the sorted stack. The program utilizes `Collections.sort()` for sorting and ensures reusability by implementing the sorting logic inside a dedicated method.
+This Java program reads a list of space-separated integers from the user, stores them in a `Stack` sorts them in ascending order and then prints the sorted stack. The program utilizes `Collections.sort()` for sorting and ensures reusability by implementing the sorting logic inside a dedicated method.
 
 ## Features
 
