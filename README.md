@@ -41,7 +41,7 @@ java SortedStack
 ## Usage
 
 1. The program prompts the user to enter a space-separated list of integers.
-2. After pressing **Enter**, the program sorts the integers and displays them.
+2. After pressing **Enter** the program sorts the integers and displays them.
 
 ### Example Input/Output
 
@@ -63,7 +63,7 @@ Sorted Stack:
 
 The program consists of the following key components:
 
-- **`sortAStack()`**: Reads user input, converts it into integers, sorts them using `Collections.sort()`, and prints the sorted stack.
+- **`sortAStack()`**: Reads user input, converts it into integers, sorts them using `Collections.sort()` and prints the sorted stack.
 - **`main()`**: Calls `sortAStack()` to execute the program logic.
 
 ## Test Cases
